@@ -1,0 +1,32 @@
+[
+    {
+        "id": "moonki_1127199004",
+        "source": "Monki",
+        "url": "https://www.monki.com/en_dkk/clothing/coats-jackets/coats/product.single-breasted-water-repellent-coat-green.1127199004.html",
+        "title": "Green single-breasted water-repellent coat",
+        "description": "A comfy green single-breasted coat with shirt collar that's the perfect transeasonal go-to to complete your look.",
+        "price": 649,
+        "currency": "DKK",
+        "brand": "Monki",
+        "color": "blue",
+        "category": "Coats & jackets",
+        "sizes": [
+            "XXS",
+            "XS",
+            "S"
+        ],
+        "images": [
+            "https://lp.monki.com/app002prod?set%3Dsource%5B%2F62%2Fbe%2F62be6a7ace0cf38b34b32f30a395ca80d63e44de.jpg%5D%2Corigin%5Bdam%5D%2Ctype%5BLOOKBOOK%5D%2Cdevice%5Bhdpi%5D%2Cquality%5B80%5D%2CImageVersion%5B2%5D%26call%3Durl%5Bfile%3A%2Fproduct%2Fmain%5D",
+            "https://lp.monki.com/app002prod?set%3Dsource%5B%2F3d%2F6a%2F3d6ab637a1cdc6dc56b370ca49b456b5676eed62.jpg%5D%2Corigin%5Bdam%5D%2Ctype%5BLOOKBOOK%5D%2Cdevice%5Bhdpi%5D%2Cquality%5B80%5D%2CImageVersion%5B2%5D%26call%3Durl%5Bfile%3A%2Fproduct%2Fmain%5D",
+            "https://lp.monki.com/app002prod?set%3Dsource%5B%2Fa1%2F91%2Fa1916160b45465e9ad64905a31867ef2bf1c9f30.jpg%5D%2Corigin%5Bdam%5D%2Ctype%5BLOOKBOOK%5D%2Cdevice%5Bhdpi%5D%2Cquality%5B80%5D%2CImageVersion%5B2%5D%26call%3Durl%5Bfile%3A%2Fproduct%2Fmain%5D",
+            "https://lp.monki.com/app002prod?set%3Dsource%5B%2Ffe%2F84%2Ffe84f6f90aafa83ea8f039e8a568e44a21a53b21.jpg%5D%2Corigin%5Bdam%5D%2Ctype%5BLOOKBOOK%5D%2Cdevice%5Bhdpi%5D%2Cquality%5B80%5D%2CImageVersion%5B2%5D%26call%3Durl%5Bfile%3A%2Fproduct%2Fmain%5D",
+            "https://lp.monki.com/app002prod?set%3Dsource%5B%2Fbe%2Ff1%2Fbef19f136513d3685b3c4a4e692b2aa8deefef84.jpg%5D%2Corigin%5Bdam%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cdevice%5Bhdpi%5D%2Cquality%5B80%5D%2CImageVersion%5B1%5D%26call%3Durl%5Bfile%3A%2Fproduct%2Fmain%5D"
+        ],
+        "materials": "Polyester 83%, Cotton 17%",
+        "relatedProductId": "moonki_112719",
+        "affiliate": true,
+        "availability": [
+            "DK"
+        ]
+    }
+]
